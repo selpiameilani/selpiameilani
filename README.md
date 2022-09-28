@@ -1,4 +1,4 @@
 Nama : Selpia Meilani
-NIM :
+NIM : 20220040148
 Kelas : TI22A
 Prodi : Teknik Informatika
